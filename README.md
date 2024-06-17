@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @rishikcaptain
-- 👀 I’m interested in Java Development
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me rishikcaptain@gmail.com
+👋 Hi, I’m Rishik Yadav.
 
-<!---
-rishikcaptain/rishikcaptain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in Web Development, Cyber Security, and Data Analysis.
+
+🌱 I’m currently pursuing a Master of Information Technology at the University of Waikato.
+
+💞️ I’m looking to collaborate on any project in my domain.
+
+📫 How to reach me: irishikyadav@gmail.com
